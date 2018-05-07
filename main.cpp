@@ -2,7 +2,6 @@
 
 main(){
 
-	printf("Halooo Rizky");
-	return 0;
+
 
 }
